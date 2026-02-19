@@ -1,1 +1,42 @@
-
+{
+  "name": "VTA",
+  "symbol": "VTA",
+  "description": "Vietera Token (VTA) is not a meme token. It is applied within a practical ecosystem following digital asset standards, with a limited supply. The core development focuses on online payment applications and an NFT gaming ecosystem.",
+  "description_vi": "Vietera Token (VTA) không phải là meme, token được ứng dụng vào hệ sinh thái thực tiễn theo tiêu chuẩn tài sản số với nguồn cung hạn chế  , kèm theo  phát triển  cốt lõi ứng thanh toán trực tuyến ,  chuoi game NFTs",
+  "image": "https://raw.githubusercontent.com/JedTopDao/JED-token-metadata/refs/heads/main/tokenvta.png",
+  "banner": "https://raw.githubusercontent.com/JedTopDao/JED-token-metadata/refs/heads/main/tokenvta.png",
+  "decimals": 9,
+  "external_url": "https://vietera.com",
+  "support_email": "support@vietera.com",
+  "created_at": "2025-02-16T11:00:00Z",
+  "updated_at": "2026-02-19T15:30:00Z",
+  "legal": "This token is not a security and does not represent ownership in any entity. Please perform your own due diligence before investing.",
+  "license": "MIT License",
+  "total_supply": "5000000",
+  "mint_locked": true,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/JedTopDao/JED-token-metadata/refs/heads/main/tokenvta.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "utility token"
+  },
+  "seller_fee_basis_points": 0,
+  "version": "1.0",
+  "contact": {
+    "email": "support@vietera.com",
+    "support": "support@vietera.com"
+  },
+  "extensions": {
+    "website": "https://vietera.com",
+    "twitter": "https://x.com/TVietera26379 ",
+    "facebook": "https://www.facebook.com/profile.php?id=61588190584776",
+    "discord": "https://discord.gg/vieteratoken2026",
+    "telegram": "https://t.me/vtacommunity",
+    "github": "https://github.com/vieteratoken2026",
+    "medium": "https://medium.com/@vieteratoken2026",
+    "youtube": "www.youtube.com/@vieteratoken"
+  }
+}
